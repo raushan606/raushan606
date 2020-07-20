@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=raushan606&show_icons=true">
 
-<!--
-**raushan606/raushan606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Raushan Kumar:
 
-Here are some ideas to get you started:
+[![raushan606](https://img.shields.io/static/v1?label=raushan606&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://raushan606.github.io/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/int.integer/)
+[![me@raushan606](https://img.shields.io/static/v1?label=me@raushan606&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:raushankumar606@gmail.com)
+  
+  
+👨‍💻 21 Years old Developer  
+👨‍🎓 Studying Computer Science here in India  
+🚧 **Current Project:** [portfolio-react](https://github.com/lucafluri/price_tracker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React and Spring Boot
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with React
-- 💬 Ask me about ...
-- 📫 How to reach me: raushankumar606@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
--->
+⭐️ From [raushan606](https://github.com/raushan606)
