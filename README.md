@@ -9,6 +9,6 @@
   
 👨‍💻 21 Years old Developer  
 👨‍🎓 Studying Computer Science here in India  
-🚧 **Current Project:** [portfolio-react](https://github.com/lucafluri/price_tracker)
+🚧 **Current Project:** [devConnector](https://github.com/raushan606/devConnector)
 
 ⭐️ From [raushan606](https://github.com/raushan606)
