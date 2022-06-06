@@ -7,8 +7,8 @@
 [![me@raushan606](https://img.shields.io/static/v1?label=me@raushan606&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:raushankumar606@gmail.com)
   
   
-👨‍💻 21 Years old Developer  
-👨‍🎓 Studying Computer Science here in India  
-🚧 **Current Project:** [devConnector](https://github.com/raushan606/devConnector)
+👨‍💻 22 Years old Developer  
+👨‍🎓 Working as Member of Technical Staff @Hexaview Technologies Pvt. Ltd.
+🚧 **Current Project:** [devConnector](https://github.com/raushan606/microservice-spring)
 
 ⭐️ From [raushan606](https://github.com/raushan606)
