@@ -7,9 +7,11 @@
 [![me@raushan606](https://img.shields.io/static/v1?label=me@raushan606&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:raushankumar606@gmail.com)
   
   
-👨‍💻 22 Years old Developer  
-👨‍🎓 Working as Member of Technical Staff @Hexaview Technologies Pvt. Ltd.
+👨‍💻 23 Years old Java Developer 
 
-🚧 **Current Project:** [microservice-spring](https://github.com/raushan606/microservice-spring)
+<!-- 👨‍🎓 Working as Member of Technical Staff @Hexaview Technologies Pvt. Ltd. -->
+
+🚧 **Current Project:**- Not Working
+<!--  [microservice-spring](https://github.com/raushan606/microservice-spring) -->
 
 ⭐️ From [raushan606](https://github.com/raushan606)
