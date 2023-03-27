@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=raushan606&show_icons=true">
+![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan606&include_all_commits=true)
 
 ### 👋 Hi there I'm Raushan Kumar;
 - 👨‍💻 I'm some sort of a full-stack developer?
