@@ -25,4 +25,4 @@
 Last Edited on: 03/03/2023
 
 ![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan606&include_all_commits=true)
-[![Raushan's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raushan606)](https://github.com/anuraghazra/github-readme-stats)
+[![Raushan's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raushan606)]
