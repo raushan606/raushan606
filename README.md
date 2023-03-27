@@ -25,4 +25,3 @@
 Last Edited on: 03/03/2023
 
 ![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan606&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raushan606)](https://github.com//github-readme-stats)
