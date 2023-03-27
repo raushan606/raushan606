@@ -1,5 +1,4 @@
 
-
 ### 👋 Hi there I'm Raushan Kumar;
 - 👨‍💻 I'm some sort of a full-stack developer?
 - 🌱 I work a lot with Java especially with Spring Boot and I'm afraid for languages such as Rust!
@@ -24,4 +23,6 @@
 
 Last Edited on: 03/03/2023
 
-![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan606&include_all_commits=true)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raushan606&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raushan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan606&layout=compact&theme=buefy&hide_border=true" /></a> | 
+| ------------- | ------------- |
