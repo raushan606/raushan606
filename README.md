@@ -1,4 +1,4 @@
-![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan606&include_all_commits=true)
+
 
 ### 👋 Hi there I'm Raushan Kumar;
 - 👨‍💻 I'm some sort of a full-stack developer?
@@ -23,3 +23,5 @@
 - Some other small side-projects that are not important enough to mention
 
 Last Edited on: 03/03/2023
+
+![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan606&include_all_commits=true)
