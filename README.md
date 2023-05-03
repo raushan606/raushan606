@@ -52,4 +52,11 @@
 <br />
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=raushan606&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
 
+	
 
+### WakaTime Activity Stats:
+	
+	
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
