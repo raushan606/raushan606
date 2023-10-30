@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 27 October 2023
+From: 28 September 2023 - To: 28 October 2023
 
-Total Time: 33 hrs 23 mins
+Total Time: 31 hrs 29 mins
 
-Java              21 hrs 46 mins  >>>>>>>>>>>>>>>>---------   65.20 %
-HTML              7 hrs 49 mins   >>>>>>-------------------   23.45 %
-Assembly          1 hr 34 mins    >------------------------   04.73 %
-XML               1 hr 5 mins     >------------------------   03.25 %
-SQL               19 mins         -------------------------   00.98 %
+Java              19 hrs 58 mins  >>>>>>>>>>>>>>>>---------   63.42 %
+HTML              7 hrs 48 mins   >>>>>>-------------------   24.78 %
+Assembly          1 hr 34 mins    >------------------------   05.02 %
+XML               1 hr 3 mins     >------------------------   03.36 %
+SQL               19 mins         -------------------------   01.03 %
 ```
 
 <!--END_SECTION:waka-->
