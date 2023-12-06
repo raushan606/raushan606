@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 03 December 2023
+From: 04 November 2023 - To: 04 December 2023
 
-Total Time: 76 hrs 47 mins
+Total Time: 81 hrs 50 mins
 
-Java              58 hrs 28 mins  >>>>>>>>>>>>>>>>>>>------   76.14 %
-HTML              8 hrs 4 mins    >>>----------------------   10.53 %
-VB.NET            4 hrs 41 mins   >>-----------------------   06.11 %
-Other             1 hr 51 mins    >------------------------   02.42 %
-Text              1 hr 4 mins     -------------------------   01.40 %
+Java              62 hrs 37 mins  >>>>>>>>>>>>>>>>>>>------   76.52 %
+HTML              8 hrs 58 mins   >>>----------------------   10.96 %
+VB.NET            4 hrs 41 mins   >------------------------   05.73 %
+Other             1 hr 51 mins    >------------------------   02.27 %
+Text              1 hr 4 mins     -------------------------   01.32 %
 ```
 
 <!--END_SECTION:waka-->
