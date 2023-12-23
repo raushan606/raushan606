@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2023 - To: 20 December 2023
+From: 21 November 2023 - To: 21 December 2023
 
-Total Time: 63 hrs 16 mins
+Total Time: 59 hrs 20 mins
 
-Java                  51 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>-----   81.12 %
-HTML                  10 hrs 25 mins  >>>>---------------------   16.47 %
-SQL                   28 mins         -------------------------   00.74 %
-XML                   17 mins         -------------------------   00.46 %
-CSS                   13 mins         -------------------------   00.36 %
+Java                  47 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>-----   80.18 %
+HTML                  10 hrs 25 mins  >>>>---------------------   17.56 %
+SQL                   28 mins         -------------------------   00.79 %
+XML                   17 mins         -------------------------   00.49 %
+CSS                   13 mins         -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
