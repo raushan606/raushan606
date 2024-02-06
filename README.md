@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 03 February 2024
+From: 05 January 2024 - To: 04 February 2024
 
-Total Time: 70 hrs 26 mins
+Total Time: 69 hrs 39 mins
 
-Java                       52 hrs 50 mins  >>>>>>>>>>>>>>>>>>>------   75.02 %
-HTML                       8 hrs 58 mins   >>>----------------------   12.73 %
-TypeScript                 3 hrs 28 mins   >------------------------   04.93 %
-Java Properties            1 hr 27 mins    >------------------------   02.07 %
-Properties                 59 mins         -------------------------   01.40 %
+Java                       52 hrs 3 mins   >>>>>>>>>>>>>>>>>>>------   74.75 %
+HTML                       8 hrs 57 mins   >>>----------------------   12.87 %
+TypeScript                 3 hrs 28 mins   >------------------------   04.98 %
+Java Properties            1 hr 27 mins    >------------------------   02.09 %
+Properties                 59 mins         -------------------------   01.42 %
 ```
 
 <!--END_SECTION:waka-->
