@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 05 March 2024
+From: 05 February 2024 - To: 06 March 2024
 
-Total Time: 14 hrs 19 mins
+Total Time: 12 hrs 12 mins
 
-Java              11 hrs 52 mins  >>>>>>>>>>>>>>>>>>>>>----   82.89 %
-JSON              55 mins         >>-----------------------   06.51 %
-SQL               38 mins         >------------------------   04.46 %
-HTML              15 mins         -------------------------   01.83 %
-Java Properties   13 mins         -------------------------   01.53 %
+Java              9 hrs 36 mins   >>>>>>>>>>>>>>>>>>>>-----   78.70 %
+JSON              55 mins         >>-----------------------   07.63 %
+SQL               37 mins         >------------------------   05.05 %
+HTML              15 mins         >------------------------   02.12 %
+Java Properties   13 mins         -------------------------   01.79 %
 ```
 
 <!--END_SECTION:waka-->
