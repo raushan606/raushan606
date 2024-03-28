@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2024 - To: 25 March 2024
+From: 25 February 2024 - To: 26 March 2024
 
-Total Time: 35 hrs 13 mins
+Total Time: 37 hrs 18 mins
 
-YAML              11 hrs 28 mins  >>>>>>>>-----------------   32.56 %
-Java              6 hrs 41 mins   >>>>>--------------------   19.01 %
-AsciiDoc          6 hrs 21 mins   >>>>>--------------------   18.03 %
-XML               5 hrs 26 mins   >>>>---------------------   15.46 %
-PowerShell        1 hr 34 mins    >------------------------   04.45 %
+YAML              11 hrs 28 mins  >>>>>>>>-----------------   30.77 %
+Java              8 hrs 42 mins   >>>>>>-------------------   23.36 %
+AsciiDoc          6 hrs 21 mins   >>>>---------------------   17.03 %
+XML               5 hrs 28 mins   >>>>---------------------   14.67 %
+PowerShell        1 hr 34 mins    >------------------------   04.20 %
 ```
 
 <!--END_SECTION:waka-->
