@@ -8,11 +8,11 @@
 </p>
 
 - 👨‍💻 I'm some sort of a full-stack developer?
-- 🌱 I work a lot with Java especially with Spring Boot and I'm afraid for languages such as Rust!
+- 🌱 I work a lot with Java and I'm afraid for languages such as Rust!
 - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
 - 👯‍♀️ I like to discuss coding with others and learn more.
-- 📫 I do not write blog posts and my twitter is mostly used when I'm bored or waiting for something.
-- ❓ Want to know more about me? You can always contact me via serval social medias!
+- 📫 I do not write blog posts and my Twitter is mostly used when I'm bored or waiting for something.
+- ❓ Want to know more about me? You can always contact me via several social media!
 - 📫 How to reach me **raushankumar606@gmail.com**
 
 
