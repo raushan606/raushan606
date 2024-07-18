@@ -1,6 +1,4 @@
-<div align="center">
-	<img src="https://github.com/raushan606/raushan606/blob/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <p align="center">
@@ -39,19 +37,9 @@
 <!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
 - Some other small side-projects that are not important enough to mention
-
-
-### Github Stats  
-<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushan606&theme=github_dark" align="left" style="width: 47%"/></div>  
- 
- <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushan606&theme=2077" align="left" style="width: 47%"/></div> 
-
-
 </div>
 
 <br />
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=raushan606&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
-</div>
 	
 
 ### WakaTime Activity Stats:
