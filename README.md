@@ -13,6 +13,32 @@
 - ❓ Want to know more about me? You can always contact me via several social media!
 - 📫 How to reach me **raushankumar606@gmail.com**
 
+<h2 align="left">Tech Stack:</h2>
+<div>
+<!-- 	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width="50" height="50" alt="Java" />
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width="50" height="50" alt="MySQL" />
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" width="50" height="50" alt="PostgreSQL" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/redis.svg" width="50" height="50" alt="Redis" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/azure.svg" width="50" height="50" alt="Azure" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="50" height="50" alt="Docker" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width="50" height="50" alt="Kubernetes" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg" width="50" height="50" alt="Spring" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="50" height="50" alt="Git" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width="50" height="50" alt="Gitlab" />
+	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width="50" height="50" alt="Intellij" />
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/eclipse.png" width="50" height="50" alt="Eclipse" />
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" width="50" height="50" alt="Notepad++" />
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="50" height="50" alt="Vscode" />
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="50" height="50" alt="HTML" />
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50" alt="CSS" />
+	 -->
+
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,azure,git,kubernetes,docker,postgres,mysql,css,html,eclipse,githubactions,powershell,postman,windows,gitlab,idea,hibernate,maven,vscode,c,vim" width="50%" height="50%"/>
+  </a>
+</p>
+</div>
 
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
@@ -36,7 +62,7 @@
 ## Current projects
 <!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
-- Some other small side-projects that are not important enough to mention
+- Exploring Open Source Project 
 </div>
 
 <br />
@@ -60,3 +86,5 @@ YAML                       32 hrs 35 mins  ▓░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=raushan606&color=green)
