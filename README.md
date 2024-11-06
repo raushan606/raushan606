@@ -35,7 +35,7 @@
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,azure,git,kubernetes,docker,postgres,mysql,css,html,eclipse,githubactions,powershell,postman,windows,gitlab,idea,hibernate,maven,vscode,c,vim" width="50%" height="50%"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,azure,go,git,kubernetes,docker,postgres,mysql,css,html,eclipse,githubactions,powershell,postman,windows,gitlab,idea,hibernate,maven,gradle,vscode,c,vim,apple" width="50%" height="50%"/>
   </a>
 </p>
 </div>
