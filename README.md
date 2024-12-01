@@ -74,14 +74,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2020 - To: 29 November 2024
+From: 03 May 2020 - To: 30 November 2024
 
-Total Time: 1,573 hrs 56 mins
+Total Time: 1,575 hrs 56 mins
 
-Java                       908 hrs 8 mins  ██████████████▒░░░░░░░░░░   57.70 %
-JavaScript                 267 hrs 5 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-HTML                       113 hrs 56 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-XML                        69 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Java                       908 hrs 8 mins  ██████████████▒░░░░░░░░░░   57.63 %
+JavaScript                 267 hrs 5 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+HTML                       113 hrs 56 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+XML                        69 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 YAML                       36 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
