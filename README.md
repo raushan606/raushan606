@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Junior+Software+Engineer;Java+Software+Developer;Interseted+in+Backend;Nice+To+Meet+You+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Software+Engineer;Java+Software+Developer;Interseted+in+Backend;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 - 👨‍💻 I'm some sort of a full-stack developer?
-- 🌱 I work a lot with Java and I'm afraid for languages such as Rust!
-- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
+- 🌱 I work a lot with Java, and I'm afraid of languages such as Assembly!
+- 🎮 I like gaming, but never know which games I want to play, and never play a game for long!
 - 👯‍♀️ I like to discuss coding with others and learn more.
-- 📫 I do not write blog posts and my Twitter is mostly used when I'm bored or waiting for something.
+- 📫 I do not write blog posts, and my Twitter is mostly used when I'm bored or waiting for something.
 - ❓ Want to know more about me? You can always contact me via several social media!
 - 📫 How to reach me **raushankumar606@gmail.com**
 
