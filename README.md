@@ -62,7 +62,7 @@
 ## Current projects
 <!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
-- [KubeNap](https://github.com/raushan606/kubenap)
+- [HELMJUNIT](https://github.com/raushan606/helmjunit)
 </div>
 
 <br />
