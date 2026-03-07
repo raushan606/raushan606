@@ -74,11 +74,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2020 - To: 03 March 2026
+From: 03 May 2020 - To: 06 March 2026
 
-Total Time: 2,465 hrs 31 mins
+Total Time: 2,465 hrs 58 mins
 
-Java                       1,373 hrs 38 mins     ██████████████░░░░░░░░░░░   55.71 %
+Java                       1,373 hrs 38 mins     ██████████████░░░░░░░░░░░   55.70 %
 JavaScript                 277 hrs 6 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
 TypeScript                 184 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
 HTML                       148 hrs 10 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
